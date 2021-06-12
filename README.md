@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexCoderutzuu
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning golang/c++
-- 💞️ I’m looking to collaborate on guis
+- I Don't Really Want To Collaborate On Anything Yet...
 
 <!---
 AlexCoderutzuu/AlexCoderutzuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
